@@ -1,2 +1,2 @@
-sDiceNumber=$((RANDOM%6 + 1));
+DiceNumber=$((RANDOM%6 + 1));
 echo $DiceNumber
